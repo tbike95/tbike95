@@ -1,0 +1,127 @@
+body {
+    background-image: url("../images/Keira's View Final.png"); /* Replace with your actual image filename */
+    background-size: cover; /* Ensures the image covers the entire background area */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image in the viewport */
+    margin: 0; /* Removes default margins around the body */
+    height: 100vh; /* Makes the body take the full height of the viewport */
+}
+
+.button1 {
+    display: inline-block; /* Allows padding and margin */
+    padding: 2px 5px; /* Adds space inside the button */
+    background-color: #FF0000; /* Button color */
+    color: white; /* Text color */
+    text-align: center; /* Center the text */
+    border-radius: 5px; /* Rounded corners */
+    text-decoration: none; /* Remove underline */
+    font-size: 14px; /* Font size */
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+	
+}
+.button2 {
+    display: inline-block; /* Allows padding and margin */
+    padding: 2px 5px; /* Adds space inside the button */
+    background-color: #FF0000; /* Button color */
+    color: white; /* Text color */
+    text-align: center; /* Center the text */
+    border-radius: 5px; /* Rounded corners */
+    text-decoration: none; /* Remove underline */
+    font-size: 14px; /* Font size */
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+	
+}
+.button3 {
+    display: inline-block; /* Allows padding and margin */
+    padding: 2px 5px; /* Adds space inside the button */
+    background-color: #FF0000; /* Button color */
+    color: white; /* Text color */
+    text-align: center; /* Center the text */
+    border-radius: 5px; /* Rounded corners */
+    text-decoration: none; /* Remove underline */
+    font-size: 14px; /* Font size */
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+	
+}
+.button4 {
+    display: inline-block; /* Allows padding and margin */
+    padding: 2px 5px; /* Adds space inside the button */
+    background-color: #FF0000; /* Button color */
+    color: white; /* Text color */
+    text-align: center; /* Center the text */
+    border-radius: 5px; /* Rounded corners */
+    text-decoration: none; /* Remove underline */
+    font-size: 14px; /* Font size */
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+	
+}
+.button5 {
+    display: inline-block; /* Allows padding and margin */
+    padding: 2px 5px; /* Adds space inside the button */
+    background-color: #FF0000; /* Button color */
+    color: white; /* Text color */
+    text-align: center; /* Center the text */
+    border-radius: 5px; /* Rounded corners */
+    text-decoration: none; /* Remove underline */
+    font-size: 14px; /* Font size */
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+	
+}
+
+.button1 {
+    margin-top: 71px;
+    margin-left: 47px; /* Moves Button 1 to the right */
+}
+.button2 {
+    
+    margin-left: 148px; /* Moves Button 2 to the right more */
+}
+.button3 {
+    
+    margin-left: 152px; /* Moves Button 3 to the right more */
+}
+.button4 {
+    
+    margin-left: 130px; /* Moves Button 4 to the right more */
+}
+.button5 {
+    
+    margin-left: 140px; /* Moves Button 5 to the right more */
+} 
+
+.button1:hover {
+    background-color: #000000; /* Changes the background color when the user hovers over the button */
+}
+.button2:hover {
+    background-color: #000000; /* Changes the background color when the user hovers over the button */
+}
+.button3:hover {
+    background-color: #000000; /* Changes the background color when the user hovers over the button */
+}
+
+.button4:hover {
+    background-color: #000000; /* Changes the background color when the user hovers over the button */
+}
+.button5:hover {
+    background-color: #000000; /* Changes the background color when the user hovers over the button */
+}
+
+.button1:hover {
+    color: #FF0000; /* Changes the background color when the user hovers over the button */
+}
+.button2:hover {
+    color: #FF0000; /* Changes the background color when the user hovers over the button */
+}
+.button3:hover {
+    color: #FF0000; /* Changes the background color when the user hovers over the button */
+}
+
+.button4:hover {
+    color: #FF0000; /* Changes the background color when the user hovers over the button */
+}
+.button5:hover {
+    color: #FF0000; /* Changes the background color when the user hovers over the button */
+}
+
+
+
